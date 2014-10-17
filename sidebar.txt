@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pyn:home|Door43 (pyn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pyn|d43-pyn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pyn/archive/master.zip|d43-pyn.zip]]
+
+**Recent Changes**
+{{changes>ns = pyn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pyn|Ethnologue data]]
+
